@@ -1,4 +1,4 @@
-# Advanced_Programming_Techniques_3
+# Advanced Programming Techniques ex3
 ## Small program where someone via an HTTP POST message sends a small text and it is published via MQTT
 
 To see the result of the program do the following:
